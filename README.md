@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vignesh Chaturvedi</h1>
 <h3 align="center">CS-UG | Open source | learning DevOps ✨| Enlightened Ignorance</h3>
 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🌱 I’m currently learning **DevOps**
 
