@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vignesh Chaturvedi</h1>
-<h3 align="center">CS-UG | Open source | learning DevOps ✨| Enlightened Ignorance</h3>
+<h1 align="center">🏄‍♂️ Vignesh Chaturvedi</h1>
+<h3 align="center">Founder <a href="http://techbeyondtime.com/">TechBeyondTime</a> | CS-UG | Open source | learning DevOps ✨| Enlightened Ignorance</h3>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
@@ -20,9 +20,9 @@
 
 <p align="left">  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=vignesh-chaturvedi&show_icons=true&locale=en)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vignesh-chaturvedi&)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=vignesh-chaturvedi&show_icons=true&locale=en&layout=compact)
+![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignesh-chaturvedi&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=vignesh-chaturvedi&theme=gruvbox&border_radius=4.5)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=vignesh-chaturvedi&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
 ---
   ## 💰 You can help me by Donating
