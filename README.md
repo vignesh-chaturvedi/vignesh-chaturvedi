@@ -1,5 +1,5 @@
 <h1 align="center">🏄‍♂️ Vignesh Chaturvedi</h1>
-<h3 align="center">Co-Founder <a href="http://techbeyondtime.com/">TechBeyondTime</a> | CS-UG | Open source | learning DevOps ✨| Enlightened Ignorance</h3>
+<h3 align="center">Co-Founder <a href="https://techbeyondtime.com/">TechBeyondTime</a> | CS-UG | Open source | learning DevOps ✨| Enlightened Ignorance</h3>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
