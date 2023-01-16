@@ -24,8 +24,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vignesh-chaturvedi&theme=gruvbox&border_radius=4.5)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=vignesh-chaturvedi&show_icons=true&locale=en&layout=compact&theme=gruvbox)
-
 ---
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/vigneshc)
