@@ -3,7 +3,7 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Web3**
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@vigneshc)
 
