@@ -1,9 +1,9 @@
 <h1 align="center">🏄‍♂️ Vignesh Chaturvedi</h1>
-<h3 align="center">Co-Founder <a href="https://techbeyondtime.com/">TechBeyondTime</a> | CS-UG | Open source | learning Web3 ✨| Enlightened Ignorance</h3>
+<h3 align="center">Co-Founder <a href="https://techbeyondtime.com/">TechBeyondTime</a> | CS-UG | Open source | learning Web3 🛠</h3>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 🌱 I’m currently learning **Web3**
+- 🛠 I’m currently learning **Web3**
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@vigneshc)
 
