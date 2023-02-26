@@ -9,8 +9,6 @@
 
 - 📫 Reach me at **vigneshchaturvedi@gmail.com**
 
-- ⚡ Fun fact **The average person will spend about six months of their lifetime waiting on a red traffic light to turn green. Think about all the things you could do in that time!**
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vigneshchaturvedi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshchaturvedi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/vigneshchaturvedi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vitwts)
 
@@ -20,9 +18,7 @@
 
 <p align="left">  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![Vignesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vignesh-chaturvedi&show_icons=true&theme=gruvbox)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vignesh-chaturvedi&theme=gruvbox&border_radius=4.5)
+![Vignesh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vignesh-chaturvedi&show_icons=true&theme=gruvbox) ![GitHub Streak](https://streak-stats.demolab.com?user=vignesh-chaturvedi&theme=gruvbox&border_radius=4.5)
 
 ---
   ## 💰 You can help me by Donating
