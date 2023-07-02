@@ -1,12 +1,12 @@
-<h1 align="center">🏄‍♂️ Vignesh Chaturvedi</h1>
-<h3 align="center">Co-Founder <a href="https://techbeyondtime.com/">TechBeyondTime</a> | CS-UG | Open source | learning Web3 🛠</h3>
+<h1 align="center">Howdy! Vignesh here! 🏄‍♂️</h1>
+<h3 align="center">Building <a href="https://techbeyondtime.com/">TechBeyondTime</a> | CS-UG | Open source | learning Web3 🛠</h3>
 
 <!--   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400px" height="245" />
 
 - 🛠 I’m currently learning **Web3**
 
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@vigneshc)
+<!-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@vigneshc) -->
 
 - 📫 Reach me at **vigneshchaturvedi@gmail.com**
 
@@ -50,7 +50,6 @@
 </td>
 </tr>
 </table>
-<!-- <br> -->
 <br>
 
 ---
